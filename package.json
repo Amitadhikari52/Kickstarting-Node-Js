@@ -1,0 +1,16 @@
+{
+  "name": "node-js-assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon task10.js",
+    "start-server": "node task10.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
